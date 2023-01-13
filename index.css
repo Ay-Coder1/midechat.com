@@ -705,13 +705,13 @@ main .container .right{
 } 
 
 /* ========= MEDIA QUERIES FOR PHONE TABLETS ==============*/
-@media screen and (max-width: 800px){
+@media screen and (max-width: 860px){
     nav .search-bar{
         display: none;
     }
 
     main .container{
-        grid-template-columns:0 auto rem ;
+        grid-template-columns:0 auto 5rem ;
         gap: 0;
     }
 
