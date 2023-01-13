@@ -705,7 +705,7 @@ main .container .right{
 } 
 
 /* ========= MEDIA QUERIES FOR PHONE TABLETS ==============*/
-@media screen and (max-width: 902px){
+@media screen and (max-width: 800px){
     nav .search-bar{
         display: none;
     }
